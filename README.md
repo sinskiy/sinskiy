@@ -19,7 +19,8 @@ Also I want to try&nbsp;&nbsp;<img height="32" width="32" title="Deno" src="http
 
 Web development
 
-- Svelte, Sveltekit
+- Svelte
+- SvelteKit, Astro
 - Javascript, Typescript
 - Vite
 - HTML, CSS/Sass, PostCSS
