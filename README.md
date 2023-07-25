@@ -22,25 +22,21 @@ Web development
 - Svelte
 - SvelteKit, Astro
 - Javascript, Typescript
-- Vite
-- HTML, CSS/Sass, PostCSS
-- npm
+- HTML, CSS
+- SCSS/Sass, Tailwind
+- Daisyui
 - Browser extensions development
-- Tailwind, Daisyui
-- Wordpress
 
  Programming
 
-- bash scripts
-- Linux terminal
-- Git
-- GitHub CLI
-- Markdown
+- bash scripts, Linux terminal commands
+- Git, GitHub CLI
 - C, SQL, Python *(via Harvard's CS50x, basics)*
 - MongoDB *(basics)*
 
 General
 
+- Markdown
 - Figma
 - VSCode
 - Vim motions, Neovim *(basics)*
