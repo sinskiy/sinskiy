@@ -2,7 +2,7 @@
 
 ### [💻&nbsp;&nbsp;My personal website](https://sinskiy.github.io/)
 
-- 🌍 14 years old web developer from russia
+- 🌍 15 years old web developer
 - 💡 Lifelong learning mindset
 - 💨 Really excited about newest technologies
 
