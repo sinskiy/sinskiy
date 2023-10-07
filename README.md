@@ -6,13 +6,11 @@
 - 💡 Lifelong learning mindset
 - 💨 Really excited about newest technologies
 
-I build my projects with&nbsp;&nbsp;<img height="32" width="32" title="JavaScript" src="https://cdn.simpleicons.org/javascript" />&nbsp;&nbsp;<img height="32" width="32" title="Svelte" src="https://cdn.simpleicons.org/svelte" />&nbsp;&nbsp;<img height="32" width="32" title="Astro" src="https://cdn.simpleicons.org/astro" />
+I build my projects with&nbsp;&nbsp;<img height="32" width="32" title="Svelte" src="https://cdn.simpleicons.org/svelte" />&nbsp;&nbsp;<img height="32" width="32" title="Astro" src="https://cdn.simpleicons.org/astro" />&nbsp;&nbsp;<img height="32" width="32" title="Supabase" src="https://cdn.simpleicons.org/supabase" />&nbsp;&nbsp;<img height="32" width="32" title="Tailwind" src="https://cdn.simpleicons.org/tailwindcss" />
 
-Familiar with&nbsp;&nbsp;<img height="32" width="32" title="C" src="https://cdn.simpleicons.org/c" />&nbsp;&nbsp;<img height="32" width="32" title="SQL" src="https://cdn.simpleicons.org/sqlite/gray" /> &nbsp;&nbsp;<img height="32" width="32" title="Python" src="https://cdn.simpleicons.org/python" />&nbsp;&nbsp;<img height="32" width="32" title="Mongodb" src="https://cdn.simpleicons.org/mongodb" />
+Familiar with&nbsp;&nbsp;<img height="32" width="32" title="C" src="https://cdn.simpleicons.org/c" />&nbsp;&nbsp;<img height="32" width="32" title="Python" src="https://cdn.simpleicons.org/python" />
 
-I want to learn&nbsp;&nbsp;<img height="32" width="32" title="Node.js" src="https://cdn.simpleicons.org/node.js" />&nbsp;&nbsp;for backend and to build desktop apps with&nbsp;&nbsp;<img height="32" width="32" title="Electron" src="https://cdn.simpleicons.org/electron" />
-
-Also I want to try&nbsp;&nbsp;<img height="32" width="32" title="Deno" src="https://cdn.simpleicons.org/deno/gray" />
+I want to learn&nbsp;&nbsp;<img height="32" width="32" title="Bun" src="https://cdn.simpleicons.org/bun/antiquewhite" />&nbsp;&nbsp;for backend and&nbsp;&nbsp;<img height="32" width="32" title="Tauri" src="https://cdn.simpleicons.org/tauri" />&nbsp;&nbsp;to build desktop apps
 
 <details>
 <summary><h3>Full skills list</h3></summary>
@@ -21,6 +19,7 @@ Web development
 
 - Svelte
 - SvelteKit, Astro
+- Supabase
 - Javascript, Typescript
 - HTML, CSS
 - SCSS/Sass, Tailwind
@@ -32,7 +31,6 @@ Web development
 - bash scripts, Linux terminal commands
 - Git, GitHub CLI
 - C, SQL, Python *(via Harvard's CS50x, basics)*
-- MongoDB *(basics)*
 
 General
 
