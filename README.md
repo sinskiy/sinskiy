@@ -47,4 +47,4 @@ General
 - Discord: @sinskiy_
 
 
-![My github stats](https://github-readme-stats-git-master-sinskiy.vercel.app/api?username=sinskiy&show_icons=true&theme=chartreuse-dark&&bg_color=00000000&hide_border=true)
+![My github stats](https://github-readme-stats-git-master-sinskiy.vercel.app/api?username=sinskiy&show_icons=true&theme=chartreuse-dark&&hide_border=true)
