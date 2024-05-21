@@ -1,6 +1,6 @@
 # 👋, I'm Sinskiy
 
-### [💻&nbsp;&nbsp;My personal website](https://sinskiy.vercel.app/)
+### [💻&nbsp;&nbsp;My personal website](https://sinskiy.website/)
 
 - 🌍 15 years old web developer
 - 💡 Lifelong learning mindset
