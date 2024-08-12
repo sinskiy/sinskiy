@@ -1,18 +1,10 @@
-# 👋, I'm Sinskiy
+# Hi, I'm Sinskiy, web developer
+
+A 15 years old from russia, who really likes reading dystopias and self-improvement books. It's hard for me to talk to strangers and I'm a bit awkward. Currently my two main goals are to be ready to work as a full stack/frontend developer and to improve my English speaking skills
 
 ### [💻&nbsp;&nbsp;My personal website](https://sinskiy.website/)
 
-- 🌍 15 years old web developer
-- 💡 Lifelong learning mindset
-- 💨 Excited about newest technologies
-
-I build my projects with&nbsp;&nbsp;<img height="32" width="32" title="React" src="https://cdn.simpleicons.org/react" />&nbsp;&nbsp;<img height="32" width="32" title="Astro" src="https://cdn.simpleicons.org/astro" />&nbsp;&nbsp;<img height="32" width="32" title="Tailwind" src="https://cdn.simpleicons.org/tailwindcss" />&nbsp;&nbsp;<img height="32" width="32" title="Typescript" src="https://cdn.simpleicons.org/typescript" />
-
-Familiar with&nbsp;&nbsp;<img height="32" width="32" title="Svelte" src="https://cdn.simpleicons.org/svelte" />&nbsp;&nbsp;<img height="32" width="32" title="C" src="https://cdn.simpleicons.org/c" />&nbsp;&nbsp;<img height="32" width="32" title="Python" src="https://cdn.simpleicons.org/python" />&nbsp;&nbsp;<img height="32" width="32" title="Webpack" src="https://cdn.simpleicons.org/webpack" />&nbsp;&nbsp;<img height="32" width="32" title="Next.js" src="https://cdn.simpleicons.org/next.js/black/white" />
 
 ### Contacts:
 
 - Discord: @sinskiy_
-
-
-![My github stats](https://github-readme-stats-git-master-sinskiy.vercel.app/api?username=sinskiy&show_icons=true&theme=chartreuse-dark&&hide_border=true)
