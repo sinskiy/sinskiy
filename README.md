@@ -1,13 +1,8 @@
-# Hi, I'm Sinskiy, web developer
-
-A 16 year old from russia who is interested in political geography and everything related to it, philosophy and technology. I rarely speak, so I'm a bit awkward. Currently my two main goals are to be ready to work as a full stack/frontend developer and to improve my English speaking skills
-
-### [💻&nbsp;&nbsp;Personal website](https://www.sinskiy.website/)
-### [📙&nbsp;&nbsp;Shared blog with my friend](https://madwriters.sinskiy.website/)
-
+full-stack react/node.js/next.js developer interested in politics, philosophy and books (i can do a bit of design too)
+looking for friends and job, dm me on Discord @sinskiy_
 
 ### Contacts:
 
-- Discord: @fluqont
-- Telegram: [@fluqont](http://t.me/fluqont)
-- Mail: fluqont@gmail.com
+- Discord: @sinskiy_
+- Telegram: [@sinskiy](http://t.me/sinskiy)
+- Mail: dimasinskiy@gmail.com
