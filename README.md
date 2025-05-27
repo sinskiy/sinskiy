@@ -1,4 +1,5 @@
 full-stack react/node.js/next.js developer interested in politics, philosophy and books (i can do a bit of design too)
+
 looking for friends and job, dm me on Discord @sinskiy_
 
 ### Contacts:
