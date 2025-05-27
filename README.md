@@ -4,6 +4,6 @@ looking for friends and job, dm me on Discord @sinskiy_
 
 ### Contacts:
 
-- Discord: @sinskiy_
+- Discord: [@sinskiy_](https://discord.gg/MamAWexg) (if this link doesn't work find me by username)
 - Telegram: [@sinskiy](http://t.me/sinskiy)
 - Mail: dimasinskiy@gmail.com
